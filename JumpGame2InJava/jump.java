@@ -1,4 +1,4 @@
-
+package JumpGame2InJava;
 class Solution {
     public int jump(int[] nums) {
         System.out.println(0);
